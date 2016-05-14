@@ -1,8 +1,8 @@
 ---
-name : tom
-website : http://tom.preston-werner.com/
-git_url : git://github.com/jekyllbootstrap/theme-tom.git
-source_url : https://github.com/jekyllbootstrap/theme-tom
+name : mll
+website : http://laporte-m.github.io
+git_url : git://github.com/laporte-m/jekyllbootstrap-theme-mll
+source_url : https://github.com/laporte-m/jekyllbootstrap-theme-mll
 author:
   name : Tom Preston-Werner
   website : http://tom.preston-werner.com/
