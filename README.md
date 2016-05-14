@@ -1,3 +1,3 @@
-This is blog theme compatible with Jekyll-Bootstrap
+Install this theme with rake from the root directory of your Jekyll-Bootstrap site:
 
-<http://jekyllbootstrap.com> for usage.
+`rake theme:install git="https://github.com/jekyllbootstrap/theme-tom.git"`
